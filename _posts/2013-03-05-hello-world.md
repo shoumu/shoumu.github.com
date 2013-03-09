@@ -2,7 +2,7 @@
 layout: post
 title: "Hello World"
 description: ""
-category: 
+category: 随笔
 tags: [心情]
 ---
 {% include JB/setup %}
