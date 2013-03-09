@@ -73,6 +73,7 @@ JB :
   archive_path: /archive.html
   categories_path : /categories.html
   tags_path : /tags.html
+  about_path: /pages/about/index.html
   atom_path : /atom.xml
   rss_path : /rss.xml
 
@@ -82,6 +83,7 @@ JB :
   #
   comments :
     provider : disqus
+    short_name: shoumu
     disqus :
       short_name : jekyllbootstrap
     livefyre :
