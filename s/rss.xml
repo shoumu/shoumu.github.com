@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>半天成</title>
+        <description>半天成 - shoumu</description>
+        <link>http://shoumu.github.com</link>
+        <link>http://shoumu.github.com</link>
+        <lastBuildDate>2013-03-30T12:32:45+08:00</lastBuildDate>
+        <pubDate>2013-03-30T12:32:45+08:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>makefile语法</title>
+                <description>
+</description>
+                <link>http://shoumu.github.com/2013/03/30/makefile-grammer</link>
+                <guid>http://shoumu.github.com/2013/03/30/makefile-grammer</guid>
+                <pubDate>2013-03-30T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>思而学，习而学</title>
+                <description>&lt;p&gt;首先说说这个题目吧，上学期的软件工程课曾经有一个关于“习而学”和“学而习”的讨论，后来在讨论以后也就那样
+子过去了。现在对于那次的讨论，我对于一个人的评论还记得挺清楚的。他说：“估计邹欣他们读书的那个年代，没有时间来讨论这些吧”。
+邹老师他们的那个时候，可能的确是没有时间来讨论这么多的事情吧。今天看到一篇博客，也大概是说现在学校里
+很多人都只是去弄会书上的那些东西，然后就是做题，而忽略了动手能力的u锻炼，对于一个工科专业，这话i肯定
+不行的。结合这些，自己再想了一些，也就有了一些关于“习而学”、“思而学”的想法了。&lt;/p&gt;
+
+&lt;h4&gt;思而学&lt;/h4&gt;
+
+&lt;p&gt;经常听老师、同学说学习要学会思考，不能够去死记硬背书上的东西，当你真正理解的时候，那些需要背诵的内容
+也就变得简单了。这句话说得很对，大家也都知道，只是可能每个人运用的程度不同而已。&lt;/p&gt;
+
+&lt;p&gt;在我们的学习中，一种很重要的能力就是思辨能力，要学会思考学到的东西，并且同时能够根据这些东西得到一些自己的结论。
+比如老师讲了一个知识点，你是否敢对老师讲的这个内容提出一些不同的意见。这些都是思考的表现。平时的学习中，不是
+老师讲的每一句话都是正确的，他们同样也会犯很多的错误，同时，有些老师的教学水平真的是不敢恭维。&lt;/p&gt;
+
+&lt;p&gt;那这个思考，要怎样的思考呢？简单的说，对于一个公式就是要明白为什么这样的公式，是根据什么推导出来的，如果
+让你自己来推导，你会怎么样地去进行推导；对于一些结论，当然也需呀思考为什么会得到这样的结论，是根据哪些知识得到的，
+得到这个结论的思考过程是什么……这些都是平时学习的时候应该要注意的方面。&lt;/p&gt;
+
+&lt;p&gt;说了我们要思考，要怎样的思考，那我们为什么要思考呢？对于我们大多数的人的学习这方面来说，思考也就是为了让你
+能够更好地理解知识，学习更加轻松。而同时，一些人的思考也是推动一些我们这个社会进步的动力；当然了，我觉得，最根本的还是
+思考是我们区别一般动物的表现之一。如果你觉得你是一个高级的动物，我觉得就应该让你的脑袋活动起来吧。&lt;/p&gt;
+
+&lt;p&gt;对于我自己而言，我觉得我挺喜欢思考的，说简单一点，就是对于那些见到的，学到的东西，都想再想一下，以求能够更加深入理解一些。
+既然我自己没有别人那么聪明的头脑。不能够很容易地理解那些知识。那么我也就只能够多花一些时间去想其中的原因和原理。
+以希望自己不会太混乱地度过自己的时间。但是，坦白的说，我自己所作出的一些思考，很多时候都是不够深入的，
+这就是一些比较要命的问题，也就是经常发现想了太多，但是实际上很无用。&lt;/p&gt;
+
+&lt;p&gt;给自己写了一句话：有时候你想多了，那只是你的无知而已。的确，思考是学习的过程，但是学习需要脚踏实地，不是天马行空的想象。
+我们要做的就是仔细、认真、深入地思考。&lt;/p&gt;
+
+&lt;h4&gt;习而学&lt;/h4&gt;
+
+&lt;p&gt;前面说到了思而学，的确思考是很重要的。我们整个社会文明的进步也就人们思考的结果。这几天想要做一个todo-list，
+这个过程就完全显露了自己的动手能力的不行。在学习生活中，做一些事情的时候，经常看见别人很快就完成了，而到了
+我们的时候可能就会花很长的时间，而且花了这些时间以后，也并不一定别别人做得好。归根结底，可能会有自己策略的原因，
+但是也不可否认自己的动手能力的地下。&lt;/p&gt;
+
+&lt;p&gt;我是学习计算机的，就拿计算机这一块来举一个例子。计算机是非常需要人的动手能力的，学习一门语言，学习一个算法，学习一种技术，
+很多时候都是需要们动手去写程序去实践，去验证的。如果你很好的理解了原理，当然这非常好，但是如果你最终还是不会写出
+程序了，很多时候完全也没有效果。即使你在纸上写算法再流畅，自己的想法再好，没能够实现也没有任何的价值，除非
+你牛逼到别人原来来帮你实现。&lt;/p&gt;
+
+&lt;p&gt;习的这个过程，恰好就是帮助你来再次理解其中最细微的地方的时候，当你真正做出来以后，我想无论怎么样也会有一些感受的吧。
+这些就是决定你进步的因素。&lt;/p&gt;
+
+&lt;p&gt;反思我学习计算机的这个过程，就是习的这方面差了太多。但是这方面有时候就是非常简单的一个过程，只是需要你花大量的时间去做。
+所以，其实也是一个兴趣的体现，你愿意更多地去接触，也就会了学，学到更多。&lt;/p&gt;
+
+&lt;h4&gt;思+习&lt;/h4&gt;
+
+&lt;p&gt;写到最后，其实大家都懂，我们学习的过程就是要多思、多习。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;最后，在这里分享两句话：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;资之深，则取之左右逢其原。————《孟子·离娄下》&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;做事情要用脑子，更要用心。———— 本人  :p&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;hr /&gt;
+</description>
+                <link>http://shoumu.github.com/2013/03/16/learn-with-work</link>
+                <guid>http://shoumu.github.com/2013/03/16/learn-with-work</guid>
+                <pubDate>2013-03-16T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>Markdown语法</title>
+                <description>&lt;h2&gt;概述&lt;/h2&gt;
+
+&lt;h3&gt;兼容HTML&lt;/h3&gt;
+
+&lt;p&gt;不在Markdown涵盖范围之内的标签，都可以直接在文档里面用HTML撰写，不用而外标注是HTML或者是Markdown。&lt;/p&gt;
+
+&lt;p&gt;要制约的只有一些 HTML 区块元素――比如 &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt;、&lt;code&gt;&amp;lt;table&amp;gt;&lt;/code&gt;、&lt;code&gt;&amp;lt;pre&amp;gt;&lt;/code&gt;、&lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt; 等标签，必须在前后加上空行与其它内容区隔开，还要求它们的开始标签与结尾标签不能用制表符或空格来缩进。Markdown 的生成器有足够智能，不会在 HTML 区块标签外加上不必要的 &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt; 标签。&lt;/p&gt;
+
+&lt;p&gt;例如：&lt;/p&gt;
+
+&lt;p&gt;这是一个普通段落。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;table&amp;gt;
+    &amp;lt;tr&amp;gt;
+        &amp;lt;td&amp;gt;Foo&amp;lt;/td&amp;gt;
+    &amp;lt;/tr&amp;gt;
+&amp;lt;/table&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;这是另一个普通段落。&lt;/p&gt;
+
+&lt;p&gt;在Html区块内的Markdown样式，将不会被处理&lt;/p&gt;
+
+&lt;h3&gt;特殊字符自动转换&lt;/h3&gt;
+
+&lt;p&gt;在 HTML 文件中，有两个字符需要特殊处理： &lt;code&gt;&amp;lt;&lt;/code&gt;和 &lt;code&gt;&amp;amp;&lt;/code&gt; 。 &lt;code&gt;&amp;lt;&lt;/code&gt; 符号用于起始标签，&amp;amp; 符号则用于标记 HTML 实体，如果你只是想要显示这些字符的原型，你必须要使用实体的形式，像是 &amp;lt; 和 &amp;amp;。&lt;/p&gt;
+
+&lt;p&gt;Markdown 让你可以自然地书写字符，需要转换的由它来处理好了。如果你使用的 &amp;amp; 字符是 HTML 字符实体的一部分，它会保留原状，否则它会被转换成 &amp;amp;。&lt;/p&gt;
+
+&lt;h2&gt;区块元素&lt;/h2&gt;
+
+&lt;h3&gt;段落&lt;/h3&gt;
+
+&lt;p&gt;段落的前后要有一个以上的空行（空行是指看起来是空的行，比如说一行之包括空格和Tab，哪儿没就是一个空行），可以加入&lt;code&gt;&amp;lt;br /&amp;gt;&lt;/code&gt;来进行换行，但是不好用。&lt;/p&gt;
+
+&lt;h3&gt;标题&lt;/h3&gt;
+
+&lt;p&gt;支持两种形式&lt;/p&gt;
+
+&lt;p&gt;类Setext形式：用底线的形式，利用==（最高阶标题）和--（第二阶标题）&lt;/p&gt;
+
+&lt;p&gt;类Atx形式：在行首插入1到6个#，对应标题1到6阶。&lt;/p&gt;
+
+&lt;h3&gt;区块引用Blockquotes&lt;/h3&gt;
+
+&lt;p&gt;使用类似email中用&lt;code&gt;&amp;gt;&lt;/code&gt;的引用方式，可以在没一行前面都加上&lt;code&gt;&amp;gt;&lt;/code&gt;，也可以只在段落开头加上&lt;code&gt;&amp;lt;&lt;/code&gt;，区块引用可以嵌套，嵌套几层用几个&lt;code&gt;&amp;gt;&lt;/code&gt;。引用区块内也可以使用其他的Markdown语法，包括标题、列表、代码区块。&lt;/p&gt;
+
+&lt;h3&gt;列表&lt;/h3&gt;
+
+&lt;p&gt;无序列表用星号、加好或者减号。&lt;/p&gt;
+
+&lt;p&gt;有序列表用数字接着一个英文句点。使用的数字不影像输出的HTML，也就是说前面的数字任意。&lt;/p&gt;
+
+&lt;p&gt;列表项目标记通常是放在最左边，其实也可以缩进，但是最多3个空格，项目标记后面则是一定要接着至少一个空格或者制表符。&lt;/p&gt;
+
+&lt;p&gt;项目列表可以包含多个段落，每个项目下的段落都必须缩进4个空格或者1个制表符。&lt;/p&gt;
+
+&lt;p&gt;如果在列表项目内放进引用，那&gt;就需要缩进。&lt;/p&gt;
+
+&lt;p&gt;如果要放代码区块的话，该区块就需要缩进两次，也就是 8 个空格或是 2 个制表符。&lt;/p&gt;
+
+&lt;p&gt;如果数字后面要出现句点，则用\转义。&lt;/p&gt;
+
+&lt;h3&gt;代码区块&lt;/h3&gt;
+
+&lt;p&gt;Markdown会用&lt;code&gt;&amp;lt;pre&amp;gt;&lt;/code&gt;和&lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt;标签将代码区块包起来。要在Markdown中旧爱哪里代码区块，只要简单地缩进4个空格或者一个制表符就可以。一个代码区块会一直持续到没有缩进的那一行，或者文件结尾。&lt;/p&gt;
+
+&lt;h3&gt;分割线&lt;/h3&gt;
+
+&lt;p&gt;可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。也可以在星号或是减号中间插入空格。&lt;/p&gt;
+
+&lt;h2&gt;区段元素&lt;/h2&gt;
+
+&lt;h3&gt;链接&lt;/h3&gt;
+
+&lt;p&gt;链接文字都用[方括号]来标记。&lt;/p&gt;
+
+&lt;p&gt;行内式的链接，只要在方块括号后面紧接着圆括号并插入网址链接即可，如果你还想要加上链接的 title 文字，只要在网址后面，用双引号把 title 文字包起来即可。&lt;/p&gt;
+
+&lt;p&gt;参考式的链接是在链接文字的括号后面再接上另一个方括号，而在第二个方括号里面要填入用以辨识链接的标记。&lt;/p&gt;
+
+&lt;h3&gt;强调&lt;/h3&gt;
+
+&lt;p&gt;用星号（*）和底线（_）作为标记强调字词的符号，被 * 或 _ 包围的字词会被转成用 &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt; 标签包围，用两个 * 或 _ 包起来的话，则会被转成 &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;。&lt;/p&gt;
+
+&lt;p&gt;但是如果你的 * 和 _ 两边都有空白的话，它们就只会被当成普通的符号。&lt;/p&gt;
+
+&lt;p&gt;要在文字前后直接插入普通的星号或底线，你可以用反斜线。&lt;/p&gt;
+
+&lt;h3&gt;代码&lt;/h3&gt;
+
+&lt;p&gt;如果要标记一小段行内代码，你可以用反引号把它包起来（`）。&lt;/p&gt;
+
+&lt;p&gt;如果要在代码区段内插入反引号，可以用多个反引号来开启和结束代码区段。&lt;/p&gt;
+
+&lt;h3&gt;图片&lt;/h3&gt;
+
+&lt;p&gt;行内式的图片：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;一个惊叹号&lt;code&gt;!&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;接着一个方括号，里面放上图片的替代文字&lt;/li&gt;
+&lt;li&gt;接着一个小括号，里面放图片的网址，最后还可以用引号包住并加上 选择性的 &lt;code&gt;title&lt;/code&gt; 文字。&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;参考式的图片：&lt;/p&gt;
+
+&lt;p&gt;![Alt text][id]&lt;/p&gt;
+
+&lt;p&gt;id是图片参考的名称。图片参考的定义方式和链接参考一样。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4&gt;本文摘自&lt;a href=&quot;http://wowubuntu.com/markdown/&quot;&gt;wowubuntu.com/markdown&lt;/a&gt;&lt;/h4&gt;
+</description>
+                <link>http://shoumu.github.com/2013/03/12/markdown-syntax</link>
+                <guid>http://shoumu.github.com/2013/03/12/markdown-syntax</guid>
+                <pubDate>2013-03-12T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>第一次修改</title>
+                <description>&lt;h4&gt;博客主要修改内容&lt;/h4&gt;
+
+&lt;p&gt;今天是博客安装好了以后第一次对博客本身进行修改，添加了About页面，同时也调整了一下页面上显示的元素，从今天两点过一直弄到现在。效率不是很高，主要是因为自己对这个不熟悉。但是弄到现在，个人感觉收获还是挺大的，至少我在慢慢了解这个系统。其中也没有浪费时间，虽然说是效率有点低。&lt;/p&gt;
+
+&lt;h4&gt;学到的一些东西&lt;/h4&gt;
+
+&lt;p&gt;Jekyll Bootstrap这个东西确实挺好用的，在每一页最上面的group中，就可以让哪些页面显示出来，分组为navigation。hidden组可以让页面隐藏。&lt;/p&gt;
+
+&lt;p&gt;现在用的主题是Twitter，通过修改其中的模板，就能够改变网页的具体的呈现。但是我现在的机器上预览仍然还有一些问题，不支持中文，这个还要好生修改才行。&lt;/p&gt;
+
+&lt;p&gt;另外，不要忽视没一个文件的头部，包含了很多的信息。这一点非常重要。&lt;/p&gt;
+
+&lt;h4&gt;一点感受&lt;/h4&gt;
+
+&lt;p&gt;之前学过Ruby和Rails，但是那时候可能是咋学期末了，导致根本没有怎么学懂，现在重新来弄这个东西，要补和学习的东西太多了。但是，贵在坚持，虽然比别人要笨一点，但是我坚持下来，我觉得还是能够取得一下成果的。加油。&lt;/p&gt;
+
+&lt;h4&gt;吐一下槽&lt;/h4&gt;
+
+&lt;p&gt;Linux下的中文输入法实在是不好用啊。:)&lt;/p&gt;
+</description>
+                <link>http://shoumu.github.com/2013/03/10/first-modify</link>
+                <guid>http://shoumu.github.com/2013/03/10/first-modify</guid>
+                <pubDate>2013-03-10T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>Hello World</title>
+                <description>&lt;p&gt;在linux下面这个环境终于可以跑起来了，但是同时又有一个疑问，问什么在windows下面就是出现了很多的问题呢，老是显示“Could not locate Gemfile”，但是在linux下面就没有什么问题，唉，真是麻烦！ &lt;br/&gt;
+不管了，好好学习！&lt;/p&gt;
+</description>
+                <link>http://shoumu.github.com/2013/03/05/hello-world</link>
+                <guid>http://shoumu.github.com/2013/03/05/hello-world</guid>
+                <pubDate>2013-03-05T00:00:00+08:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

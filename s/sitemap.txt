@@ -1,0 +1,16 @@
+
+http://shoumu.github.com/pages.html
+http://shoumu.github.com/tags.html
+http://shoumu.github.com/index.html
+http://shoumu.github.com/archive.html
+http://shoumu.github.com/categories.html
+http://shoumu.github.com/atom.xml
+http://shoumu.github.com/sitemap.txt
+http://shoumu.github.com/pages/about/index.html
+http://shoumu.github.com/rss.xml
+
+http://shoumu.github.com/2013/03/30/makefile-grammer
+http://shoumu.github.com/2013/03/16/learn-with-work
+http://shoumu.github.com/2013/03/12/markdown-syntax
+http://shoumu.github.com/2013/03/10/first-modify
+http://shoumu.github.com/2013/03/05/hello-world
