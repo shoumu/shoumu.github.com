@@ -81,7 +81,7 @@ tags: [makefile, linux c]
 		cc -o edit $(object)
 
 	clean:
-		rm $(edit)
+		rm $(object)
 
 ### make自动推导
 
