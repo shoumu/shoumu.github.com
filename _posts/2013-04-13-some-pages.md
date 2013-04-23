@@ -20,3 +20,7 @@ tags: [技术, 点滴积累]
 * [Lex和Yacc应用教程](http://blog.csdn.net/liwei_cmg/article/category/207528)
 
 一个非常好的教程，在这个之前也看了一些相关的教程，但是总感觉都没有将明白，而这一个，讲得非常到位。
+
+#### Python
+
+* [python的一些资料](http://www.elias.cn/Python/HomePage)
