@@ -24,3 +24,11 @@ tags: [技术, 点滴积累]
 #### Python
 
 * [python的一些资料](http://www.elias.cn/Python/HomePage)
+
+#### Vim 
+
+* [config 1](http://www.cnblogs.com/ma6174/archive/2011/12/10/2283393.html)
+
+* [config 2](http://www.cnblogs.com/witcxc/archive/2011/12/28/2304704.html)
+
+* [config 3](http://blog.csdn.net/wooin/article/details/1858917)
