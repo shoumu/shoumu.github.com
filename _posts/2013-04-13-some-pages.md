@@ -15,6 +15,8 @@ tags: [技术, 点滴积累]
 
 * [Sublime Text 2 in Linux](http://note.ninehills.info/sublime-text-in-linux.html)
 
+* [安装](http://scriptogr.am/nightire/post/install-st2-in-ubuntu12)
+
 #### lex&yacc
 
 * [Lex和Yacc应用教程](http://blog.csdn.net/liwei_cmg/article/category/207528)
