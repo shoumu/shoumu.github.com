@@ -28,12 +28,14 @@ tagline:
 
     <br />
 
+    <!--
     <div class="content">{{ content }}</div>
 
     <br />
     <br />
     <br />
     <br />
+    -->
 
     </article>
   </section>
