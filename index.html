@@ -1,0 +1,33 @@
+---
+layout: default
+title: 半天成
+tagline:
+---
+{% include JB/setup %}
+
+<div class="posts">
+  {% for post in site.posts %}
+  {% assign content = post.content %}
+  <section id="{{ post.url | replace:'/',''}}">
+    <div class="article">
+
+      <div class="title">
+        <h1><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h1>
+      </div>
+      <div class="date">
+        <div class="date">{{ site.author.name }} 发表于 <span>{{ post.date | date:"%Y-%m-%d" }}</span></div>
+      </div>
+      <!--
+      {{ content }}
+      -->
+      <hr>
+
+      {% for i in content limit: 100 offset:0 %}
+        {{i}}
+      {% endfor %}
+      <br />
+    </div>
+  </section>
+  {% endfor %}
+</div>
+

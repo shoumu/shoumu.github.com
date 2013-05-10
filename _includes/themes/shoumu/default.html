@@ -37,10 +37,10 @@
 
   <body>
 
-    <div class="navbar">
-      <div class="navbar-inner">
-        <div class="container-narrow">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}{{ ASSET_PATH }}</a>
+    <div class="navbar" >
+      <div class="navbar-inner" >
+        <div class="container-narrow" >
+          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
@@ -50,21 +50,62 @@
       </div>
     </div>
   
-    <div class="container-narrow">
+    <div class="container-narrow page-container">
 
-      <div class="content">
-        {{ content }}
+      <div class="span12">
+        <div class="row">
+          <div class="span9">
+            <div class="content">
+              {{ content }}
+            </div>
+          </div>
+          <div class="span3">
+
+            <div class="sidebar">
+              <iframe width="100%" height="250" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=250&fansRow=1&ptype=1&speed=0&skin=2&isTitle=1&noborder=1&isWeibo=1&isFans=0&uid=1876503811&verifier=a48af3d4&dpc=1"></iframe>
+            </div>
+
+            <div class="sidebar">
+              <h4>Recently Post</h4>
+              {% unless site.posts == empty %}
+              <ul>
+              {% for post in site.posts limit: 10 %}
+                <li><a href="{{ BASE_PATH }}{{ post.url }}">
+                  {{post.title }}</a></li>
+              {% endfor %}
+              </ul>
+              {% endunless %}
+            </div>
+
+            <!-- tags -->
+            <div class="sidebar">
+              <h4>Tags</h4>
+              <ul class="tag_box inline">
+                {% assign tags_list = site.tags %}  
+                {% include JB/tags_list %}
+              </ul>
+            </div>
+
+            <!-- archives -->
+            <div class="sidebar">
+              <h5>Archive</h5>
+              {% assign posts_collate = site.posts %}
+              {% include themes/shoumu/archive_sim %}      
+            </div>
+
+          </div>
+        </div>
+
+        <hr>
+        <footer>
+          <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+            with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+            and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+          </p>
+        </footer>
+
       </div>
-      <hr>
-      <footer>
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-          with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-          and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-        </p>
-      </footer>
-
     </div>
-
     {% include JB/analytics %}
   </body>
 </html>
